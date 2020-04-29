@@ -1,5 +1,5 @@
 
-# Ruby on Rails:My First Rails Applications
+# Ruby on Rails:Twitter Clone
  > Building a light weight version of Twitter using the Devise gem.
 
  ## Built With
